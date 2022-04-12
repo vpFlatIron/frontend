@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/63442e60-e3af-46cd-8324-f8a603ab716f/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/vp-testreact",
+    "appService.deploySubpath": "."
+}
